@@ -37,8 +37,5 @@
             <artifactId>webdrivermanager</artifactId>
             <version>4.4.1</version>
         </dependency>
-
-
-
     </dependencies>
 </project>
